@@ -9,3 +9,4 @@ const getGar = (request, response) => {
 };
 
 module.exports.getGar = getGar;
+
